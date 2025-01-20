@@ -1,2 +1,1 @@
-# foro-hub
-Practicando Spring Framework: Challenge Foro Hub
+# <em> Foro Hub ℹ️ </em>
