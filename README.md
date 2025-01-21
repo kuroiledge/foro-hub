@@ -7,7 +7,7 @@ Pasos para utilizar el foro
 
 3. Modificar credenciales en el archivo application.properties:
 <br>spring.datasource.url=jdbc:mysql://localhost:3306/forohub
-spring.datasource.username=<b><style="color:red;">tu_usuario</b>
-spring.datasource.password=<b>tu_contrasenha</b>
+spring.datasource.username=<b><span style="color:red;">usuario</span>
+spring.datasource.password=<b><span style="color:red;">contraseña</span>
 
 4. Compilar y ejecutar la aplicación
